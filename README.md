@@ -1,0 +1,1 @@
+This is a 2D snake game created using OpenGL and glut Library.It is writtern in C++.
